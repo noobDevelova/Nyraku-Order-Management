@@ -1,0 +1,35 @@
+{
+  "expo": {
+    "name": "Nyra-Pastry",
+    "slug": "Nyra-Pastry",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "fonts": {
+      "Mulish-Regular": "./src/assets/fonts/Mulish-Regular.ttf",
+      "Mulish-Medium": "./src/assets/fonts/Mulish-Medium.ttf",
+      "Mulish-SemiBold": "./src/assets/fonts/Mulish-SemiBold.ttf",
+      "Mulish-Bold": "./src/assets/fonts/Mulish-Bold.ttf",
+      "Mulish-ExtraBold": "./src/assets/fonts/Mulish-ExtraBold.ttf"
+    }
+  }
+}
